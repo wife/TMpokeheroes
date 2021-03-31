@@ -6,7 +6,7 @@
 // @author       You
 // @match        https://pokeheroes.com/gc_hangman*
 // @grant        none
-// @downloadURL  https://github.com/warpKaiba/TMpokeheroes/raw/master/PHhangman.user.js
+// @downloadURL  https://github.com/wife/TMpokeheroes/blob/master/PHhangman.user.js
 // @icon         https://vignette.wikia.nocookie.net/pkmnshuffle/images/7/7f/Ducklett.png/revision/latest?cb=20170409032016
 // ==/UserScript==
 
