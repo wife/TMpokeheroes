@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         PH - Hangman suggestions
+// @name         PH - Hangman suggestions {wife}
 // @namespace    https://github.com/warpKaiba
 // @version      0.41
 // @description  Pokeheroes hangman word suggester
