@@ -31,6 +31,7 @@ function pokemonRegexTest(a) {
 
 var pokemonList = [ //pokemon names -> pokemon items -> pokeHeroes things
         "Bulbasaur",
+        "Inteleon",
         "Ivysaur",
         "Venusaur",
         "Charmander",
